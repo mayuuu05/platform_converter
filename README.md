@@ -100,8 +100,8 @@ To get started with this Contact Diary App, follow these steps:
   <img src = "https://github.com/user-attachments/assets/6506121a-14af-427c-8316-44a8df7fa806"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/cfe651b5-40c6-45d4-b5d4-339ca7f9dfe7"  height=35% width=22%  />
   <img src = "https://github.com/user-attachments/assets/5f16ae2f-4c1a-45a6-8ae7-f4c775a51c22"  height=35% width=22%  />
-   <img src = "https://github.com/user-attachments/assets/82bc787f-2b16-4244-9e66-d6a61260614c"  height=35% width=22%  />
-  <video height="450" src="https://github.com/user-attachments/assets/58fab8e0-994f-4e76-8b11-6f5a2501f21a" />
+   <img src = "https://github.com/user-attachments/assets/58fab8e0-994f-4e76-8b11-6f5a2501f21a"  height=35% width=22%  />
+  <video height="450" src="" />
 
 
 
