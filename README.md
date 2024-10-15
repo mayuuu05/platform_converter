@@ -67,7 +67,6 @@ To get started with this Contact Diary App, follow these steps:
    <img src = "https://github.com/user-attachments/assets/311efd6b-9062-4c77-9101-6a20bb875ecf"  height=35% width=22%  />
   <img src = "https://github.com/user-attachments/assets/8510a4d7-c747-4166-ab2d-9968ca40ab00"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/92dae8cc-b63a-4fc6-9e50-02b1b16a2212"  height=35% width=22%  />
-<!--   <video height="450" src="" /> -->
 </div>
 
 
@@ -101,14 +100,16 @@ To get started with this Contact Diary App, follow these steps:
    <img src = "https://github.com/user-attachments/assets/cfe651b5-40c6-45d4-b5d4-339ca7f9dfe7"  height=35% width=22%  />
   <img src = "https://github.com/user-attachments/assets/5f16ae2f-4c1a-45a6-8ae7-f4c775a51c22"  height=35% width=22%  />
    <img src = "https://github.com/user-attachments/assets/58fab8e0-994f-4e76-8b11-6f5a2501f21a"  height=35% width=22%  />
-  <video height="450" src="" />
-
-
-
-
 
 
 </div>
+
+# Demo video 📹
+  <video height="450" src="https://github.com/user-attachments/assets/5427996d-bcba-4e11-8468-320bd1408946" />
+
+
+
+
 
 ## 💻 Technologies Used
 
@@ -146,7 +147,6 @@ To get started with this Contact Diary App, follow these steps:
 - Integration with cloud ☁️ storage for contact syncing across devices.
 - Search functionality 🔍 to find contacts quickly.
 - Backup and restore options using cloud services.
-- More stickers and emojis to make contact organization even more fun.
 
 ## 🤝 Contributing
 
