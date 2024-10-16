@@ -107,10 +107,6 @@ To get started with this Contact Diary App, follow these steps:
 # Demo video 📹
   <video height="450" src="https://github.com/user-attachments/assets/5427996d-bcba-4e11-8468-320bd1408946" />
 
-
-
-
-
 ## 💻 Technologies Used
 
 - **Flutter** 🚀: Cross-platform mobile development framework.
